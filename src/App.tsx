@@ -1,7 +1,7 @@
 import React from 'react';
 import Card, {CardVariant} from "./components/Card";
 import {IUser} from "./types/types";
-import UserList from "./components/userList";
+import UserList from "./components/UserList";
 
 const users: IUser[] = [
     {
